@@ -32,4 +32,4 @@ Give credit here.
 - This project is a Case Study from Upgrad(ML and AI EPG program).
 
 ## Contact
-Contributed by [@spidy95, @iam048] - feel free to contact us!
+Contributed by @alifeya - feel free to contact us!
